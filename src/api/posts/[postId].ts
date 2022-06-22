@@ -1,4 +1,4 @@
-import type { UmiApiRequest, UmiApiResponse } from "umi";
+import { UmiApiRequest, UmiApiResponse } from "umi";
 import { PrismaClient } from '@prisma/client';
 import { Redis } from "@upstash/redis";
 

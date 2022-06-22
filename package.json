@@ -8,22 +8,19 @@
   },
   "dependencies": {
     "@prisma/client": "^3.15.2",
-    "@types/bcryptjs": "^2.4.2",
-    "@types/jsonwebtoken": "^8.5.8",
-    "@upstash/redis": "^1.6.1",
+    "@umijs/plugins": "4.0.0-canary.20220316.1",
+    "@upstash/redis": "^1.0.2",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^8.5.1",
-    "prisma": "^3.15.2",
-    "redis": "^4.1.0",
-    "umi": "^4.0.0"
+    "tailwindcss": "^3.0.23",
+    "umi": "4.0.0-canary.20220316.1"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/jsonwebtoken": "^8.5.8",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "@umijs/plugins": "^4.0.0",
-    "tailwindcss": "^3",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "prisma": "^3.15.2",
     "typescript": "^4.1.2"
   }
 }

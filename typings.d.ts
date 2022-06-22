@@ -1,1 +1,3 @@
-import 'umi/typings';
+declare module '*.less';
+declare module '*.css';
+declare module '*.png';

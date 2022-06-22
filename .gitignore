@@ -6,12 +6,12 @@
 /src/.umi-production
 /.umi
 /.umi-production
-/.umi-test
 /dist
 /.mfsu
-
-# jetbrains
-.idea
-
-# .env file
 .env
+.idea
+.output
+.vercel
+
+# API directory is built by Umi
+/api
